@@ -23,3 +23,10 @@
 
 ### Meus Resultados
 
+Parâmetros finais no setoolkit
+
+![Alt text](./setoolkit_final_setting01.JPG "parâmetros finais no setoolkit")
+
+Resultados dos testes na pagina fake de login do Pinterest
+
+![Alt text](./setoolkit_final_results01.JPG "Resultados dos testes")
